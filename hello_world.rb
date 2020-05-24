@@ -1,2 +1,1 @@
-puts "Hello World!"
-ruby hello_world.rb
+puts "ruby hello_world.rb"
